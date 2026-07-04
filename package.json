@@ -1,0 +1,23 @@
+{
+  "name": "chat-ui-kit",
+  "version": "0.1.0",
+  "description": "純展示聊天 UI React 元件組 — 訊息泡泡/輸入框/對話列表。shadcn 式複製貼上，只吃 props。",
+  "author": "Jeffrey0117",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "chat",
+    "messaging",
+    "ui",
+    "react",
+    "shadcn",
+    "聊天",
+    "客服",
+    "訊息"
+  ],
+  "peerDependencies": {
+    "react": ">=18",
+    "date-fns": ">=2",
+    "lucide-react": ">=0.300.0"
+  }
+}
