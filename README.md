@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="chat-ui-kit logo">
+</p>
+
 # chat-ui-kit
 
 **純展示聊天 UI 元件組** — 訊息泡泡、輸入框、對話列表、pending / 封鎖提示，全部只吃 props。
